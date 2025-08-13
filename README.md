@@ -1,5 +1,5 @@
 # Portfolio-Website
-Welcome to my personal portfolio website! This site showcases my projects, skills, and experience as a [Your Profession — e.g., Front-End Developer, Full-Stack Developer, Designer].
+Welcome to my personal portfolio website! This site showcases my projects, skills, and experience as a  Full-Stack Developer.
 
 ## 📁 Features
 
